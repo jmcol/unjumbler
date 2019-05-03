@@ -1,6 +1,6 @@
 # unjumbler
 
-**Environment:**
+**Environment Configuration:**
 
 - Anaconda Python
 

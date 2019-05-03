@@ -15,5 +15,21 @@
     "puzzle_no": 1,
     "scrambled_word": "wraley",
     "key_indices": [0, 2, 4]
+  }, {
+    "puzzle_no": 2,
+    "scrambled_word": "bnedl",
+    "key_indices": [0, 4]
+  }, {
+    "puzzle_no": 2,
+    "scrambled_word": "idova",
+    "key_indices": [0, 3, 4]
+  }, {
+    "puzzle_no": 2,
+    "scrambled_word": "seheyc",
+    "key_indices": [1, 5]
+  }, {
+    "puzzle_no": 2,
+    "scrambled_word": "aracem",
+    "key_indices": [1, 4, 5]
   }]
 }
