@@ -27,3 +27,5 @@ corresponding to pyspark 2.4.2 or your previously installed version and extract 
 The unjumbler can be run like any other python program from your favorite IDE or from the shell or command line:
 
 `$> python unjumble.py`
+
+An example output is shown in `answers.json`

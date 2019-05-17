@@ -1,34 +1,34 @@
 {
   "jumbles": [{
-    "puzzle_no": 1,
+    "puzzle_no": 0,
     "scrambled_word": "nagld",
     "key_indices": [1, 3, 4]
   }, {
-    "puzzle_no": 1,
+    "puzzle_no": 0,
     "scrambled_word": "ramoj",
     "key_indices": [2, 3]
   }, {
-    "puzzle_no": 1,
+    "puzzle_no": 0,
     "scrambled_word": "camble",
     "key_indices": [0, 1, 3]
   }, {
-    "puzzle_no": 1,
+    "puzzle_no": 0,
     "scrambled_word": "wraley",
     "key_indices": [0, 2, 4]
   }, {
-    "puzzle_no": 2,
+    "puzzle_no": 1,
     "scrambled_word": "bnedl",
     "key_indices": [0, 4]
   }, {
-    "puzzle_no": 2,
+    "puzzle_no": 1,
     "scrambled_word": "idova",
     "key_indices": [0, 3, 4]
   }, {
-    "puzzle_no": 2,
+    "puzzle_no": 1,
     "scrambled_word": "seheyc",
     "key_indices": [1, 5]
   }, {
-    "puzzle_no": 2,
+    "puzzle_no": 1,
     "scrambled_word": "aracem",
     "key_indices": [1, 4, 5]
   }]
