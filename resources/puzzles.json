@@ -31,5 +31,61 @@
     "puzzle_no": 1,
     "scrambled_word": "aracem",
     "key_indices": [1, 4, 5]
+  }, {
+    "puzzle_no": 2,
+    "scrambled_word": "knidy",
+    "key_indices": [0, 1]
+  }, {
+    "puzzle_no": 2,
+    "scrambled_word": "legia",
+    "key_indices": [0, 2]
+  }, {
+    "puzzle_no": 2,
+    "scrambled_word": "cronee",
+    "key_indices": [1, 3]
+  }, {
+    "puzzle_no": 2,
+    "scrambled_word": "tuvedo",
+    "key_indices": [0, 5]
+  }, {
+    "puzzle_no": 3,
+    "scrambled_word": "shast",
+    "key_indices": [0, 3, 4]
+  }, {
+    "puzzle_no": 3,
+    "scrambled_word": "doore",
+    "key_indices": [0, 1, 3]
+  }, {
+    "puzzle_no": 3,
+    "scrambled_word": "ditnic",
+    "key_indices": [0, 1, 2]
+  }, {
+    "puzzle_no": 3,
+    "scrambled_word": "catili",
+    "key_indices": [0, 2, 5]
+  }, {
+    "puzzle_no": 4,
+    "scrambled_word": "gyrint",
+    "key_indices": [0, 1, 3]
+  }, {
+    "puzzle_no": 4,
+    "scrambled_word": "drivet",
+    "key_indices": [2, 5]
+  }, {
+    "puzzle_no": 4,
+    "scrambled_word": "snamea",
+    "key_indices": [0, 5]
+  }, {
+    "puzzle_no": 4,
+    "scrambled_word": "ceedit",
+    "key_indices": [1, 3, 5]
+  }, {
+    "puzzle_no": 4,
+    "scrambled_word": "sowdah",
+    "key_indices": [0, 3]
+  }, {
+    "puzzle_no": 4,
+    "scrambled_word": "elchek",
+    "key_indices": [1, 5]
   }]
 }

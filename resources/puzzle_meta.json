@@ -5,5 +5,14 @@
     }, {
         "puzzle_no": 1,
         "final_jumble_groupings": [3, 4, 3]
+    }, {
+        "puzzle_no": 2,
+        "final_jumble_groupings": [8]
+    }, {
+        "puzzle_no": 3,
+        "final_jumble_groupings": [4, 8]
+    }, {
+        "puzzle_no": 4,
+        "final_jumble_groupings": [6, 8]
     }]
 }
